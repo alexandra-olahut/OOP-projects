@@ -1,0 +1,5 @@
+south-west wall center,medium,500,3000,turret.jpg
+north corner,huge,1000,10000,turret2.jpg
+east-side corner,huge,1000,5000,craft.jpg
+south-east wall,medium,13000,1,craft2.jpg
+north-west wall center,small,100,500,turret3.jpg

@@ -16,8 +16,13 @@ Given a list of astronomers and the constellation they study, the app opens a wi
 - search a star by name (find matches as he types)
 
 # Testers & Programmers
-(using Observer Pattern)
+(using Observer Pattern)  
 The app recieves a list of programmers/testers and opens a window for each, with a list of issues (name | status | reporter | solver)
 - a tester can add a new found issue
 - a programmer can resolve an open issue (solver will be updated as his name)
 - both can remove only closed issues
+
+# Illnesses
+App that keeps a list of illnesses, their category and their symptoms. User can:
+- see the symptoms of an illness
+- search by category

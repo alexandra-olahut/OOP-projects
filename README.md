@@ -15,7 +15,7 @@ Given a list of astronomers and the constellation they study, the app opens a wi
 - add a new valid star
 - search a star by name (find matches as he types)
 
-# Programmers & Testers
+# Testers & Programmers
 The app recieves a list of programmers/testers and opens a window for each, with a list of issues (name | status | reporter | solver)
 - a tester can add a new found issue
 - a programmer can resolve an open issue (solver will be updated as his name)

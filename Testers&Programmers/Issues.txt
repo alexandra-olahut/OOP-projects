@@ -1,0 +1,4 @@
+GUI bug,closed,Jo,Emma
+repo missing,closed,Ben,Mike
+linking error,open,Jo,-
+bugs,open,Jo,-

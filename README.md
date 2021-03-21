@@ -22,7 +22,7 @@ The app recieves a list of programmers/testers and opens a window for each, with
 - a programmer can resolve an open issue (solver will be updated as his name)
 - both can remove only closed issues
 
-#### Illnesses
+## Illnesses
 App that keeps a list of illnesses, their category and their symptoms. User can:
 - see the symptoms of an illness
 - search by category
